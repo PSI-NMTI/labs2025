@@ -6,4 +6,10 @@ Asegurarte que para presentarte a la revisión de cada laboratorio, ya realizast
 
 ## Laboratorio No. 1 - SNMP Basics
 
+1. Asegurar que SNMP se encuentre instalado y corriendo.
+2. Asegurar que se realizaron los cambios necesarios al archivo de configuración.
+3. Recuerde antes de validar correr el script probar correr el comando "snmpwalk".
+4. Por último, validar la interacición con el MIB Browser.
 
+### Puntos Extras
+Asegurar que desde algún otro dispositivo externo se pueda correr los comandos de SNMP.
