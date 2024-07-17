@@ -15,4 +15,4 @@ Asegurarte que para presentarte a la revisión de cada laboratorio, ya realizast
 Asegurar que desde algún otro dispositivo externo se pueda correr los comandos de SNMP.
 
 # Script
-Para poder ser corregido debe utilizar el siguiente [Script]([https://pages.github.com/](https://github.com/PSI-NMTI/labs2024/blob/main/lab1-nmti2024.sh).
+Para poder ser corregido debe utilizar el siguiente [Script](https://github.com/PSI-NMTI/labs2024/blob/main/lab1-nmti2024.sh).
