@@ -7,7 +7,7 @@ IP=192.168.1.10
 community=PSIRedMon
 
 #Coloque interfaz
-inteface=wifi0
+interface=wifi0
 
 clear
 
