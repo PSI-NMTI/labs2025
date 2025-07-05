@@ -12,7 +12,7 @@ interface=wifi0
 clear
 
 echo ""
-echo "Revision LAB1 - PSI 2024"
+echo "Revision LAB1 - PSI 2025"
 
 echo ""
 echo "IP"
