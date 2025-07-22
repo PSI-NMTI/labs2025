@@ -16,3 +16,20 @@ Asegurar que desde algún otro dispositivo externo se pueda correr los comandos 
 
 # Script
 Para poder ser corregido debe utilizar el siguiente [Script](https://github.com/PSI-NMTI/labs2025/blob/main/lab1-nmti2025.sh).
+
+
+## Laboratorio No. 2 - MRTG
+
+
+1. Correr comando: snmpwalk -v 1 -c public localhost dskPercent.1
+2. Configuración adecuada de carpeta MRTG --> /var/www/mymrtg/index.html
+3. Generación del index.html
+4. Mostrar 5 gráficas:
+- Traffic
+- Disk Percent
+- New TCP Connections
+- CPU Load
+- Free Memory (RAM)
+
+# Script
+Para poder ser corregido debe utilizar el siguiente [Script](https://github.com/PSI-NMTI/labs2025/blob/main/rev_lab2.sh).
